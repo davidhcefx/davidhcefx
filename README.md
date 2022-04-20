@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on debuging GNU nano 5.4
-- 🖋 Find more snippets I wrote on [Gist](https://gist.github.com/davidhcefx)
+- 🖋 Find more snippets I wrote on [Gist](https://gist.github.com/davidhcefx/starred)
 
 <!--
 Here are some ideas to get you started:
