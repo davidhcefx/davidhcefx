@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on debuging GNU nano 5.4
+- 🔭 I’m currently working on tracing a bug in GNU nano 5.4
 - 🖋 Find more snippets I wrote on [Gist](https://gist.github.com/davidhcefx/starred)
 
 <!--
