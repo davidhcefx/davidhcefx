@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on tracing a bug in GNU nano 5.4
+- 🔭 I’m currently working on tracing a bug in Nano 5.4 on Cygwin.
+- 🤔 I’m planning to work on: 1) Change Nano syntax highlight on-the-fly, 2) Migrate scopatz/nanorc to nano-highlight, 3) A project about wiki users, 4) Telegram Chinese substring search support, etc.
 - 🖋 Find more snippets I wrote on [Gist](https://gist.github.com/davidhcefx/starred)
 
 <!--
