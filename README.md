@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m planning to work on: 1) Change Nano syntax highlight on-the-fly, 2) Migrate scopatz/nanorc to nano-highlight, 3) A project about wiki users.
+- 🔭 I’m planning to work on: 1) Add highlights for TODO to nano-syntax-highlighting, 2) Change Nano syntax highlight on-the-fly, 3) A project about wiki users.
 - ⚡ Fun fact: This guy dreams of being a white hat hacker who can hack whatever he sees.
 - 🖋 Find more snippets I wrote on [Gist](https://gist.github.com/davidhcefx/starred)
 
